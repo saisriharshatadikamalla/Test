@@ -14,7 +14,7 @@ Approach followed : Coding in interfaces
   
    The prices of the parts can be changed at any point of time so i had a seperate class for changing price values and retrieve it statically.(PriceSheet.java)
 
-Used Factory DesignPattern: (PricingController.java)
+Used Factory DesignPattern: (PricingController.java  This is the main class which gives the whole about how code is written.)
 
   The input configuration class contains details about components
   ex: {
