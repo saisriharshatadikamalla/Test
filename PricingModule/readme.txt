@@ -78,6 +78,11 @@ outPut:
     }
 
 
+execution steps:
+Import this project as a springboot project and run it on available port.
+Hit this url URL:http://localhost:8080/calculatePrice/getPrice to get the result.
+
+
 As it is time bound didnt get time to use multithreading:
 
 Approach:
